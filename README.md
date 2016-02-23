@@ -12,6 +12,7 @@ WHAT?
 + [`resnullius/docker-alpine`](#resnullius-docker-alpine)
 + [`resnullius/docker-alpine-devel`](#resnullius-docker-alpine-devel)
 + [`resnullius/alpine-devel-howto`](#resnullius-alpine-devel-howto)
++ [`resnullius/alpine-pkg-orchestrator`](#resnullius-alpine-pkg-orchestrator)
 + [`alpine-pkg-nodejs`](#alpine-pkg-nodejs)
 + [`alpine-pkg-nodejs-lts`](#alpine-pkg-nodejs-lts)
 
@@ -71,6 +72,20 @@ and the `README` works as the main documentation point, tho the script itself
 spits lots of info with the `--help`.
 
 With this is that I build the packages on the list below.
+
+<a href="#resnullius-alpine-pkg-orchestrator"></a>
+RESNULLIUS/ALPINE-PKG-ORCHESTRATOR
+----------------------------------
+
+I wanted to build everything at the same time, so I made this little script in
+order to reproduce, easily, what I've made with alpine-pkg-nodjs and
+alpine-pkg-nodejs-lts using the `alpine-build-pkg` script from
+[`resnullius/alpine-devel-howto`](https://github.com/resnullius/alpine-devel-howto).
+
+The repository is on
+[`resnullius/alpine-pkg-orchestrator`](https://github.com/resnullius/alpine-pkg-orchestrator)
+and the `README` works as the main documentation point and the `--help` on the
+script itself.
 
 <a href="#alpine-pkg-nodejs"></a>
 ALPINE-PKG-NODEJS
