@@ -15,6 +15,7 @@ WHAT?
 + [`resnullius/alpine-pkg-orchestrator`](#resnulliusalpine-pkg-orchestrator)
 + [`alpine-pkg-nodejs`](#alpine-pkg-nodejs)
 + [`alpine-pkg-nodejs-lts`](#alpine-pkg-nodejs-lts)
++ [`alpine-pkg-radare2`](#alpine-pkg-radare2)
 
 
 TIRED OF GETTING UNTRUSTED SIGNATURE
@@ -108,3 +109,12 @@ over all the alpine versions available (from 3.2).
 
 The repo is at
 [`ghostbar/alpine-pkg-nodejs-lts`](https://github.com/ghostbar/alpine-pkg-nodejs-lts).
+
+ALPINE-PKG-RADARE2
+------------------
+
+Get the latest [`radare2`](http://www.radare.org) even if you are not using
+`edge`!
+
+The repo is at
+[`ghostbar/alpine-pkg-radare2`](https://github.com/ghostbar/alpine-pkg-radare2).
